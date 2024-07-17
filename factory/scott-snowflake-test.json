@@ -1,0 +1,9 @@
+{
+	"name": "scott-snowflake-test",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75b4a5cd-3f6d-4a32-bf15-4248788d472c",
+		"tenantId": "061b3d7e-34a9-4eae-b6fc-f869803fe1dd"
+	}
+}
